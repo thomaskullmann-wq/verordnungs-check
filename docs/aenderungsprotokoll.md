@@ -2,6 +2,17 @@
 
 Kurznotizen zu Änderungen an den Workflows: was, warum, wie getestet. Neueste oben.
 
+## 29.10.2026 · Endfassung Präsentation nach Generalprobe in der Study Hall
+
+Änderungen aus der Generalprobe mit den Kommilitonen, freigegeben von Thomas, Valentin und Derk. Endkontrolle der Präsentation gegen Kapitel 1–6.
+
+- **Folien:** eine Folie entfernt (Prototyp: Stand 27.10.2026), zwei Folien getauscht (Testbatterie vor Erfolgsmessung); Deck hat jetzt 32 Folien.
+- **Fußzeile:** „Seite x / 32“ zur Zeitkontrolle während des Vortrags (Titelfolie ohne Nummer).
+- **Folie 22 (n8n-Workflow):** Screenshot durch ein eingebettetes Video ersetzt (ca. 20 s, Klick startet). Es zeigt einen echten Lauf des aktuellen Cloud-Workflows (Ausführung 1542, grüner Fall, 38,5 s) mit rotem Rahmen am aktiven Knoten und statischer Ampel am Ende; die vier Prüfer sind dreifach beschleunigt, die Code-Knoten gedehnt. Die Rahmen folgen den Zeitstempeln der Ausführung, es ist keine Bildschirmaufnahme. Datei auch einzeln: `docs/praesentation/n8n_Workflow_Lauf_2026-10-29.mp4`.
+- **Endkontrolle, drei Korrekturen:** Seitenzahl-Nenner „/ 33“ auf „/ 32“; Folie 30 (Reflexion): überholte Notiz „Umfang von Kapitel 6 … mit dem Tutor zu klären“ entfernt; Folie 29: Meilenstein „Evaluation: 2 Läufe + Nachtest“ von 28.10. auf 27.10. (Kapitel 5 nennt durchgehend den 27.10.2026).
+- **Zahlen gegen Kapitel 1–6 abgeglichen:** Business Case (5,3 h, ≈ 3.070 €, ≈ 4.300 €), Testbatterie (123 Fälle, 253 Prüfungen, 59 × 3, 83,1 / 94,9 / 96,6 %), TCO je Kanal (1.680 / 2.054 / 983 / 823 €), Einsatzplanung (2 / 6 Wochen, −50 % / −75 %), Wissensbasis (380 Abschnitte). Abweichungen nur durch Rundung (146,4 h → 146 h, 97,3 / 98,8 % → 97 / 99 %).
+- **Bewusst nicht geändert:** Fußzeilen-Datum bleibt „Stand 28.10.2026“; Sprechernotizen summieren sich weiter auf rund 44 min (Folie 2 sagt 3 × 10 min).
+
 ## 28.10.2026 (nachmittags, 2) · Kapitel 6 Zahlen korrigiert, Textebene der PDFs bereinigt
 
 - **Kapitel 6, Abschnitt 2:** „Mit fünf Regeln im Code stieg die Quote von 83 auf 97 %" nannte dieselbe Messung gröber gerundet als Abschnitt 1 (96,6 % / 83,1 %) und schrieb beide Schritte den fünf Regeln zu. Laut Änderungsprotokoll vom 27.10. ergaben die fünf Regeln 94,9 %; die 96,6 % kamen erst mit der Korrektur am Formal-Prüfer. Neu: „Fünf Regeln im Code hoben die Quote von 83,1 auf 94,9 %, eine letzte Code-Korrektur auf 96,6 % – ohne eine Zeile an den Anweisungen zu ändern." Die Aussage zu den Anweisungen bleibt richtig, weil auch die letzte Korrektur im Code-Knoten lag („Prompts unverändert"). Kopfzeile auf Stand 28.10.2026.
